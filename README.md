@@ -1,2 +1,2 @@
-# CSCI-235
+# Software Analysis & Design 2
 Projects
